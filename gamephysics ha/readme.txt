@@ -6,7 +6,7 @@
 --- Updated: Mengyu Chu, Nov 2017    ------------------------------------------
 -------------------------------------------------------------------------------
 
-This solution contains the following components:
+This solution contains the following components: change
 
  - AntTweakBar 1.16 
    "AntTweakBar is a small and easy-to-use C/C++ library that allows program-
