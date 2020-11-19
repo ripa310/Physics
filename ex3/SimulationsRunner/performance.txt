@@ -1,0 +1,10 @@
+System Brute Force
+    100: 44 ms
+   1000: 2255 ms
+  10000: 22027 ms
+
+System Grid
+    100: 14 ms
+   1000: 1395 ms
+  10000: 14043 ms
+
